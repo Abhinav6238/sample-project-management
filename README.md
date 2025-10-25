@@ -1,7 +1,9 @@
-# sample-project-management
+sample-project-management
 A python program to calculate BMI
-Goal
+
+Goal 
 To learn using GitHub while making a small Python project.
+
 Features
 - Takes weight and height as input  
 - Calculates BMI  
