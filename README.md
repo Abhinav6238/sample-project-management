@@ -1,2 +1,2 @@
 # sample-project-management
-A python program to calculate student grade
+A python program to calculate bmi
