@@ -1,2 +1,2 @@
 # sample-project-management
-A python program to calculate bmi
+A python program to calculate BMI
