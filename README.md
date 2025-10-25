@@ -1,2 +1,2 @@
 # sample-project-management
-to calculate student grade
+A python program to calculate student grade
