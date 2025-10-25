@@ -1,7 +1,13 @@
 sample-project-management
+
+
 A python program to calculate BMI
 
-Goal 
+language:python
+
+platform: github
+
+Goal :
 To learn using GitHub while making a small Python project.
 
 Features
